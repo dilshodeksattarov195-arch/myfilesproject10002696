@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderdpdate",
+        "uuid": 11053600,
+        "checksum": "flrek"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
